@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ambiente desarrollo II</string>
+    <string name="title_activity_main">Menu</string>
+    <string name="dummy_button">www.instagram.com/hanatsuki</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="nombre">Hanatsuki</string>
+    <string name="nombre2">Store</string>
+</resources>
